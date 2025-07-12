@@ -1,6 +1,6 @@
 # C-logger
 
-A simple logging library implemented in C90
+A simple logging library implemented in C99
 
 ## License
 
